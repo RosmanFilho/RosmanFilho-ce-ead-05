@@ -1,0 +1,60 @@
+
+
+
+
+NOME: ROSMAN SANTOS 
+PERÍODO: 4 Período
+COMERCIO ELETRÔNICO
+
+
+1.B2C São negociações entre empresas e consumidores. As empresas têm sites com lojas virtuais com sistemas de pagamento eletrônico e suporte online ao usuário para
+melhor atendê-lo. B2B São negociações entre as próprias empresas. Existe também comunicação entre elas para saber sobre o mercado em si. C2C É o comércio entre os 
+consumidores, através de um site ou aplicativo. Leilões online é a aplicação mais famosa. B2G São as transações e negociações entre empresas e governo. Uma das 
+principais funcionalidades é emissão da nota fiscal eletrônica.
+
+2.As funcionalidades presentes na vitrine online é a comodidade e conforto,   pagamento online, fácil exposição do produto ao cliente através do site ou aplicativo.
+ Existe interação direta entre comprador e vendedor. Você escolhe o produto e se deseja comprar adiciona ao carrinho.
+
+3.O carrinho de compras é virtual, você pode adicionar produtos ou excluir quantas vezes quiser. E também altera a quantidade de itens apenas com cliques de mouse. 
+
+4.As vantagens de se ter uma boa gerência dos dados do cliente é que você pode sugerir itens na página principal, facilitando e economizando tempo ao consumidor.
+ Por exemplo, cds ou dvds com gêneros musicas do qual o consumidor gosta, estarão mais visíveis ao usuário.
+
+5.Geralmente, as empresas contratam serviços terceirizados para cuidarem das entregas.  Assim que o produto é despachado, o site informa ao consumidor um código de
+rastreio para o mesmo acompanhar detalhadamente sua entrega. Na maioria das vezes o prazo de entrega depende da localidade de onde você mora e do valor do frete que
+você está desposto a pagar, quanto mais barato o frete, geralmente, mais demorado é.
+
+6.O funcionamento básico de um leilão online é que o usuário pode ser o vendedor ou o comprador. Como vendedor, o usuário pode anunciar o item que deseja vender,
+estipular um preço mínimo e definir o prazo de encerramento do leilão; Como comprador, o usuário pesquisa o produto que lhe agrada, vê o lance atual e dá
+seu próprio lance na tentativa de adquirir o produto.
+
+7.Não, o leilão também existe nas categorias B2C onde as empresas se cadastram nos sites de leilões.  E existem também leilões reversos nas categorias B2B e B2G.
+
+8.No leilão reverso as empresas que desejam comprar determinados produtos entram em contato com os fornecedores e avalia qual o melhor preço para fazer o acordo.
+
+9.O modelo portal oferece uma maior gama de produtos aos consumidores, já que a pesquisa realizada pelos usuários é geralmente comum a todas as lojas
+vinculadas ao portal.
+
+10.O diferencial desse modelo é a comodidade e praticidade ao consumidor para fechar um determinado pacote de viagens, por exemplo. O consumidor informa o preço
+que está disposto a pagar, depois de um tempo, o consumidor é informado se a proposta foi aceita ou não. E existe a opção do cliente aumentar o preço caso 
+o primeiro não tenha sido aceito.
+
+11.Uma coisa muito importante a se considerar é a facilidade de se pesquisar o menor preço, além de poupar tempo ao usuário. Esses sites possuem um ranking,
+ajudando o cliente a decidir o melhor serviço prestado.
+
+12.Nesse modelo, quanto mais itens o cliente comprar, mais baratos eles ficam (em caso de promoção). Por exemplo: “Compre 3 livros, pague apenas 2”.
+
+13.Esse modelo de troca é interessante a uma empresa caso elas queiram se desfazer do estoque excedente.
+
+14.Modelo de compras coletivas é basicamente uma modalidade para vender um número preestabelecido de consumidores por oferta. No Brasil o site pioneiro
+foi o Peixe Urbano, em 2010. Esse modelo gera lucro, pois quanto mais compras, melhores descontos se obtêm. Uma tática interessante, e muito utilizada
+é a disponibilização gratuita de uma determinada quantia em dinheiro aos usuários cadastrados no site. Com isso, o consumo dos seus produtos e serviços é promovido,
+permitindo que a sua base de consumidores permaneça sempre ativa. A divulgação é feita principalmente através das redes sociais e da ferramenta Buzz Marketing.
+
+15.Elas buscam através de descontos, cada vez mais, retorno dos próprios clientes. Aumentando assim a visibilidade e fama da loja, pois assim os clientes
+ficam satisfeitos com os preços e indicam para seus amigos e familiares a loja ou site. Os descontos podem ser enviados via links, e-mails e redes sociais.
+
+16.Elas adquirem receita através de publicidades em seus sites, fornecendo assim serviços gratuitos aos usuários, que visualizam diversos banners de publicidade e podem, eventualmente, comprar nas lojas parceiras.
+17.Vantagens: Conveniência,Redução de custos para os consumidores, Base de produtos maior e mais abrangente e Custos administrativos mais baixos.
+   Desvantagens: Relacionamento com os clientes sem contato pessoal, Dificuldade no reconhecimento da marca e satisfação do cliente, Equipamentos devem 
+funcionar em um esquema 24x7 e aguentar cargas altas de conexões.
